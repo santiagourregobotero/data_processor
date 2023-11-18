@@ -1,5 +1,5 @@
 //          Copyright Santiago Urrego Botero 2022.
-// Distributed under the Boost Software License, Version 1.0.
+
 
 
 #ifndef INCLUDED_mainframe_detail_simd_h
